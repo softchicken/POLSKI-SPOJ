@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/EUCGAME/
+https://github.com/softchicken/
 */
 #include <iostream>
 

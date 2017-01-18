@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/PP0502B/
+https://github.com/softchicken/
 */
 #include <iostream>
 using namespace std;

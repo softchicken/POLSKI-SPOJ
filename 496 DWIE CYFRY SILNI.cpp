@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/FCTRL3/
+https://github.com/softchicken/
 */
 #include <string>
 #include <iostream>

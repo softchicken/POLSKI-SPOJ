@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/GLUTTON/
+https://github.com/softchicken/
 */
 #include <iostream>
 using namespace std;

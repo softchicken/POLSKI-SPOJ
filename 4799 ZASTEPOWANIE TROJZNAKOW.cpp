@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
-http://pl.spoj.com/problems/WI_TRIGR
+http://pl.spoj.com/problems/WI_TRIGR/
+https://github.com/softchicken/
 */
 #include <iostream>
 #include <string>

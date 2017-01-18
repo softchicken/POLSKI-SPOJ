@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/PP0602D/
+https://github.com/softchicken/
 */
 #include <iostream>
 

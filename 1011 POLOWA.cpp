@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/POL/
+https://github.com/softchicken/
 */
 #include <iostream>
 #include <string>

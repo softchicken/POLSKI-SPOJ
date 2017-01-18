@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/CALC2/
+https://github.com/softchicken/
 */
 #include <iostream>
 

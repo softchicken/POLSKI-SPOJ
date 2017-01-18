@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/ETI06F1/
+https://github.com/softchicken/
 */
 #include <iostream>
 

@@ -1,6 +1,7 @@
 /*
 POLISH SPOJ
 http://pl.spoj.com/problems/BFN1/
+https://github.com/softchicken/
 */
 #include <iostream>
 

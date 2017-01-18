@@ -1,5 +1,10 @@
-#include <iostream>
+/*
+POLISH-SPOJ
 //http://pl.spoj.com/problems/BINOMS/
+https://github.com/softchicken/
+*/
+#include <iostream>
+
 using namespace std;
 
 int main()
