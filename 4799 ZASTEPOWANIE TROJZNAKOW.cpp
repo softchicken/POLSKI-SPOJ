@@ -1,6 +1,6 @@
 /*
 POLISH SPOJ
-http://pl.spoj.com/problems/WI_TRIGR/
+http://pl.spoj.com/problems/WI_TRIGR
 */
 #include <iostream>
 #include <string>
